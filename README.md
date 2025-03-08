@@ -1,2 +1,3 @@
 # EjemploDiplomado
-Ejemplo de repositorio
+## Ejemplo de repositorio
+## Cambios realizados
