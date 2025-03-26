@@ -1,4 +1,5 @@
 # EjemploDiplomado 
+ejemplo git fetch
 # GitHub
 ## Ejemplo de repositorio
 ## Cambios realizados
